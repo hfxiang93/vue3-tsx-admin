@@ -1,0 +1,114 @@
+html {
+  // header
+  --header-bg-color: #394664;
+  --header-bg-hover-color: #273352;
+  --header-active-menu-bg-color: #273352;
+
+  // sider
+  --sider-dark-bg-color: #273352;
+  --sider-dark-darken-bg-color: #273352;
+  --sider-dark-lighten-bg-color: #273352;
+}
+body {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  //margin: 50px auto;
+
+  #app {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    //border-top: 1px solid transparent;
+
+    .footer{
+      text-align: center;
+      color: #919191;
+    }
+    .aside{
+      color: white;
+      background: #001529;
+    }
+    .header{
+      border-bottom: 1px solid #eee;
+    }
+    .child {
+      position: absolute;
+      left: 0;
+      top: 0;
+      .render-component {
+        position: fixed;
+        left: 50%;
+        transform: translateX(-50%);
+        top: 50px;
+      }
+    }
+
+    .el-dropdown {
+      position: absolute;
+      right: 20px;
+      top: 20px;
+    }
+
+    .login{
+      width: 100%;
+      height: 100%;
+      margin-left: -44%;
+      background-image: url(./login-bg.svg);
+      background-position: 100%;
+      background-repeat: no-repeat;
+      background-size: auto 100%;
+    }
+    .login-form{
+      position: absolute;
+      top: calc(50% - 150px);
+      left: calc(72% - 150px);
+      margin: auto;
+      padding: 20px;
+      width: 300px;
+      //border: 1px solid #999da7;
+    }
+    .login-button {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    //.el-descriptions {
+    //  margin-top: 100px;
+    //}
+
+    .todo-list {
+      margin-top: 16px;
+
+      .list-item {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 50px;
+        margin: 10px 0px;
+        text-align: center;
+        border-radius: 4px;
+        background: #ecf5ff;
+        color: #409eff;
+        transition: all 0.3s;
+
+        .el-icon-delete {
+          position: absolute;
+          right: 15px;
+          top: 50%;
+          transform: translateY(-50%);
+        }
+
+        .el-checkbox {
+          position: absolute;
+          left: 15px;
+          top: 50%;
+          transform: translateY(-50%);
+        }
+      }
+    }
+  }
+}

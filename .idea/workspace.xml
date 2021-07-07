@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a3d054f-444e-4dd8-b91f-ad036aee89a6" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/login-bg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Aside/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Foot/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/Header/headerNav.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/MainContent/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layouts/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/base.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/base.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/child.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/child.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/renderComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/renderComponent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/todoList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/todoList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/directive/focus.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/directive/focus.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/home/actionType.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/home/actionType.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/home/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/home/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/login/actionType.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/login/actionType.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/login/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/login/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/404.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/404.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/home/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/login.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vite-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/vite-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="vuetsx" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1uvlhvMTsyiKuwOYVzN8Jb5dHwc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="E:\code-github\vite-vue3-tsx\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code-github\vite-vue3-tsx\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code-github\vite-vue3-tsx\src\views\home" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.lint:fix">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="lint:fix" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint:fix" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.lint:fix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a3d054f-444e-4dd8-b91f-ad036aee89a6" name="默认的" comment="" />
+      <created>1625554065867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625554065867</updated>
+      <workItem from="1625554067517" duration="96000" />
+      <workItem from="1625554173173" duration="22127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1625640000793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625640000793" />
+    <state width="1899" height="309" key="GridCell.Tab.0.bottom" timestamp="1625639906201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="309" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625639906201" />
+    <state width="1899" height="309" key="GridCell.Tab.0.center" timestamp="1625639906201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="309" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625639906201" />
+    <state width="1899" height="309" key="GridCell.Tab.0.left" timestamp="1625639906201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="309" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625639906201" />
+    <state width="1899" height="309" key="GridCell.Tab.0.right" timestamp="1625639906201">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="309" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625639906201" />
+    <state x="699" y="236" width="522" height="626" key="find.popup" timestamp="1625563158881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="699" y="236" width="522" height="626" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1625563158881" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1625623803781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1625623803781" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1625639354154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1625639354154" />
+  </component>
+</project>
